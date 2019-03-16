@@ -1,0 +1,20 @@
+{
+  "name": "ng-classifieds",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@uirouter/angularjs": "^1.0.21",
+    "angular": "^1.7.5",
+    "angular-animate": "^1.7.5",
+    "angular-aria": "^1.7.5",
+    "angular-material": "^1.1.12",
+    "angular-ui-router": "file:node_modules/angular-ui-router",
+    "mdi": "^2.2.43"
+  }
+}
